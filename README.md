@@ -1,7 +1,7 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
 # Asymmetric-Cryptography-for-SEcube
-A simple collection of APIs for the SEcube™ SDK, enabling the execution of RSA algorithm and X.509 certificates management. The implementation resorts to the MbedTLS library.
+RSA and X.509 library for the SEcube™.
 
 Copyright (C) 2021 Blu5 Labs Ltd.
 
