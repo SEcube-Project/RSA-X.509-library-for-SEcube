@@ -1,7 +1,6 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
-# Asymmetric-Cryptography-for-SEcube
-RSA and X.509 library for the SEcube™.
+# RSA/X.509 library for SEcube™
 
 Copyright (C) 2021 Blu5 Labs Ltd.
 
