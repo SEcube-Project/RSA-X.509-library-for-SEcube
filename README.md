@@ -1,6 +1,6 @@
 <img src="https://www.secube.blu5group.com/site/templates/dist/img/logo.png" style="color:#ffffff" width="400px" />
 
-# RSA/X.509 library for SEcube™
+# RSA-X.509 library for SEcube™
 Minimal library with API for RSA algorithm and X.509 certificates, based on mbedTLS.
 
 Copyright (C) 2021 Blu5 Labs Ltd.
